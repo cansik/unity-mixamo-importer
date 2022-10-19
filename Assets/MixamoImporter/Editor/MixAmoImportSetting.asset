@@ -14,7 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mixamoDirectory: Avatars
   textureDirectory: Textures
-  isAnimationMakeLoop: 1
+  loopAnimation: 1
+  applyRootMotion: 0
   createAnimationController: 1
   animationDirectory: Animations
   avatar: {fileID: 9000000, guid: c7e28fd154d0eff4386654ca087d1435, type: 3}
